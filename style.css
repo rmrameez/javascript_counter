@@ -1,0 +1,29 @@
+body{
+	background-color: #f7f9fc;
+	padding-top: 40px;
+}
+
+h1,.btn-div{
+	text-align: center;
+}
+
+.counter{
+	max-width: 280px;
+	margin: 0 auto;
+	background-color: #ffffff;
+	padding: 40px;
+	color:  #505e6c;
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+}
+
+.counter .btn-primary{
+	background-color: #f4476b;
+	border: none;
+	padding: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.counter .btn-primary:hover{
+	background-color: #eb3b60;
+}
